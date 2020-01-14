@@ -9,3 +9,4 @@ xyz
 123
 =======
 >>>>>>> parent of 71d0dc6... commit lan 3
+pull
