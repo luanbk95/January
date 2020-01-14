@@ -5,3 +5,4 @@ test 2
 >>>>>>> parent of 1425716... commit after clone
 abc
 xyz
+123
